@@ -1,7 +1,7 @@
-Kissa Leon Denis-19-Physics,Chemistry,Mathematics
-Ochungirwoth Lucas-17-Physics,Chemistry,Biology
-Kisakye Esther-18-Physics,Economics,Mathematics
-Kigobe Jethro-20-Physics,Chemistry,Mathematics
-Ainerugaba Joseph Bill-19-History,Economics,Literature
-Asiimwe David-17-History,Economics,Literature
-Arikod Edwine-20-Physics,Chemistry,Mathematics
+Kissa Leon Denis-19-Physics,Chemistry,Mathematics-6
+Ochungirwoth Lucas-17-Physics,Chemistry,Biology-6
+Kisakye Esther-18-Physics,Economics,Mathematics-6
+Kigobe Jethro-20-Physics,Chemistry,Mathematics-6
+Ainerugaba Joseph Bill-19-History,Economics,Literature-6
+Asiimwe David-17-History,Economics,Literature-6
+Arikod Edwine-20-Physics,Chemistry,Mathematics-6
