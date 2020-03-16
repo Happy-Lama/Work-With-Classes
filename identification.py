@@ -9,5 +9,4 @@ def id(student_class):
         for i in range(9):
             num = randint(0,9)
             id_no = id_no + str(num)
-        
         return id_no
